@@ -30,10 +30,10 @@ linkedin_username: somasundaram1
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Soma and I'm a senior Data Engineer. Highly experienced data professional with 15+ years in data engineering and database administration. Proven ability to design and implement scalable data solutions, lead cross-functional teams, and drive data-informed decision-making. AWS Certified with expertise in different Database technologies - Open source Databases[RDBMS/Distributed Databases/NoSQL/Vector Databases], Data Engineering technologies [ETL, Analytics and Modern Data engineering Stack] and Python. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am passionate about : <mark>Cloud technologies [AWS/GCP]</mark>, <mark>System Design</mark>, <mark>Gen AI and ML/MLOPS</mark>
 
 content:
   - title: Projects # Title for the section
